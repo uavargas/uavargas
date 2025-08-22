@@ -19,6 +19,7 @@ Soy Ingeniero en Telecomunicaciones con amplia experiencia en administración de
 - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) **Spring Boot** - En proceso de aprendizaje para APIs REST
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) **Git** - Aprendiendo control de versiones
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) **GitHub** - Explorando colaboración en proyectos
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) **PostgreSQL** - Aprendiendo fundamentos de bases de datos relacionales
 
 ### **💪 Experiencia Profesional (Infraestructura)**
 - ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) **Microsoft Azure** - Administración de recursos en la nube
