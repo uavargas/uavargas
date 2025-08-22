@@ -31,7 +31,7 @@ Soy Ingeniero en Telecomunicaciones con amplia experiencia en administración de
 
 ### **🔍 Próximas Tecnologías a Explorar**
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) **Docker** - Contenerización (en lista de estudio)
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) **AWS** - Servicios cloud para desarrollo
+- ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=flat&logo=ai&logoColor=white) **Inteligencia Artificial** - Modelos de IA y Machine Learning
 
 ---
 
