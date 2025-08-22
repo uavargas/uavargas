@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Alonso Vargas
 
-**Ingeniero en Telecomunicaciones** transitando hacia el **Desarrollo de Software**
+🔧 **Ingeniero en Telecomunicaciones** transitando hacia el 🖥️ **Desarrollo de Software**
 
 ---
 
